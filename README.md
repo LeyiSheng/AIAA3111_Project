@@ -1,6 +1,6 @@
 # AIAA3111 Project
 
-Mini project for the AIAA3111 Data Mining course. The notebook trains several classifiers on the San Francisco crime dataset (`sf-crime/train.csv`) to predict crime categories and explore temporal/spatial patterns.
+Mini project for the AIAA3111 Data Mining course. The notebook trains several classifiers on the San Francisco crime dataset (`sf-crime/train.csv`) to predict crime categories and explore temporal/spatial patterns. You ccan douwload the dataset from https://www.kaggle.com/competitions/sf-crime/data?select=train.csv.zip.
 
 ## Environment setup and dependencies
 - Python 3.10+ recommended
